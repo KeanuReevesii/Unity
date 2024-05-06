@@ -1,0 +1,8 @@
+.vs/
+.git/
+bin/
+obj/
+GameDesigner/Example~/DistributedExampleServer~/bin/
+*.stream
+*.pool
+GameDesigner/Example~/ExampleServer~/packages/
